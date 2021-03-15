@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuqin Cui
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student majoring in Computer Science & Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Eindhoven University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Electrical Engineering
+    institution: Eindhoven University of Technology
+    year: 2018-2022
+  - course: BSc in Computer Science
+    institution: Eindhoven University of Technology
+    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
